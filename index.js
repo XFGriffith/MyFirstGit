@@ -1,6 +1,6 @@
 const Add = (x,y) => x + y; 
 
-console.log("Hello world!");
+console.log("This is a merge conflict");
 
 console.log("This is a branch");
 
